@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Домашка\obj\Debug\net8.0\Домашка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Домашка\obj\Debug\net8.0\Домашка.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Домашка\obj\Debug\net8.0\Домашка.AssemblyInfo.cs
+C:\Users\user\Desktop\Домашка\obj\Debug\net8.0\Домашка.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Домашка\obj\Debug\net8.0\Домашка.sourcelink.json
+C:\Users\user\Desktop\Домашка\bin\Debug\net8.0\Домашка.exe
+C:\Users\user\Desktop\Домашка\bin\Debug\net8.0\Домашка.deps.json
+C:\Users\user\Desktop\Домашка\bin\Debug\net8.0\Домашка.runtimeconfig.json
+C:\Users\user\Desktop\Домашка\bin\Debug\net8.0\Домашка.dll
+C:\Users\user\Desktop\Домашка\bin\Debug\net8.0\Домашка.pdb
+C:\Users\user\Desktop\Домашка\obj\Debug\net8.0\Домашка.dll
+C:\Users\user\Desktop\Домашка\obj\Debug\net8.0\refint\Домашка.dll
+C:\Users\user\Desktop\Домашка\obj\Debug\net8.0\Домашка.pdb
+C:\Users\user\Desktop\Домашка\obj\Debug\net8.0\Домашка.genruntimeconfig.cache
+C:\Users\user\Desktop\Домашка\obj\Debug\net8.0\ref\Домашка.dll
